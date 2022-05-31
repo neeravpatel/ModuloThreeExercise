@@ -1,0 +1,25 @@
+{
+  "name": "modulothreeexercise",
+  "version": "1.0.0",
+  "description": "Modulo Three Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neeravpatel/ModuloThreeExercise.git"
+  },
+  "author": "Neerav Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neeravpatel/ModuloThreeExercise/issues"
+  },
+  "homepage": "https://github.com/neeravpatel/ModuloThreeExercise#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.5.1"
+  }
+}
